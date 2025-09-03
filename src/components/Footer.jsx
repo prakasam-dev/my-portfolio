@@ -40,8 +40,7 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Gnana prakasam. All rights reserved.
           </p>
           <div className="flex space-x-4 my-4 md:my-0">
-            <a href="https://www.linkedin.com/in/gnana-prakasam-a-a3ba9b357" 
-            className="text-gray-400 hover:text-white">
+            <a href="https://www.linkedin.com/in/gnana-prakasam-a-a3ba9b357" className="text-gray-400 hover:text-white">
               <FaLinkedin />
             </a>
             <a href="https://github.com/prakasam-dev" className="text-gray-400 hover:text-white">
